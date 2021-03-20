@@ -1,0 +1,11 @@
+.box-container {
+    width: 80%;
+    height: 50%;
+    background-color: skyblue;
+}
+
+.box {
+    width: 30%;
+    height: 30%;
+    background-color: cornflowerblue;
+}
